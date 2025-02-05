@@ -1,2 +1,2 @@
 # college-website
-created my college website using html and css
+I developed a college website using HTML and CSS, focusing on core web development concepts such as building a responsive navigation bar, creating interactive buttons, and using images as hyperlinks. This project enabled me to gain a strong understanding of HTML elements, CSS styling techniques, and layout design. It not only enhanced my practical skills but also provided hands-on experience in structuring a website, implementing user interface components, and mastering foundational front-end development principles.
